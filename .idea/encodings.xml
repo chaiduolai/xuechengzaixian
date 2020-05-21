@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://D:/学成在线资料/day06页面发布课程管理/资料/课程管理工程/xc-service-manage-course" charset="UTF-8" />
+    <file url="file://D:/学成在线资料/day08课程图片管理，分布式文件系统/资料/分布式文件系统研究/test-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-rabbitmq-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-framework-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-govern-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-base-filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-manage-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc-service-manage-course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc‐service‐manage‐cms‐client" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
